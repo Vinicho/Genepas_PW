@@ -1,11 +1,15 @@
 import React from 'react'
+import Header from '@/components/Header'
+import Bodyprin from '@/components/Bodyprin'
 
-const page = () => {
-  return (
+function HomePage() {
+    return (
     <div>
-      <h1>Hola</h1>
-    </div>
-  )
-}
-
-export default page
+      <Header/>
+      <Bodyprin/> 
+      </div>
+    
+    )
+  }
+  
+  export default HomePage
