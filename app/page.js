@@ -1,7 +1,6 @@
 import React from 'react'
 import Header from '@/components/Header'
 import Bodyprin from '@/components/Bodyprin'
-
 function HomePage() {
     return (
     <div>
@@ -12,4 +11,4 @@ function HomePage() {
     )
   }
   
-  export default HomePage
+  export default HomePage;
