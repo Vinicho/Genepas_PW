@@ -117,7 +117,7 @@
   .titulo_generar{
     width: 45%;
     color: #07227B;
-    margin-left: 700px;
+    margin-left: 665px;
     margin-top: 40px;
   }
   .generar{
@@ -157,10 +157,11 @@
     font-size: 14px;
     margin-top: -125px;
     margin-left: 500px;
-    width: 160px;
+    width: 200px;
     height: 30px;
     color: #07227B;
     font-weight: bold;
+    
   }
   .input_longitud{
   
