@@ -46,6 +46,7 @@ function Formgenerador() {
         <Labelgenerada titulo="Contraseña Generada" />
         <Inputgenerada/>  
         <Buttomgenerada tipo="Copiar" />
+        <Buttomgenerada tipo="Guardar"/>
         </div>
         </div>
        
